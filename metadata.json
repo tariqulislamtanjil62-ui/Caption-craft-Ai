@@ -1,0 +1,6 @@
+{
+  "name": "CaptionCraft AI",
+  "description": "Native Android social media caption generator in Kotlin and Jetpack Compose for Bangladesh and global users, powered by Firebase AI Logic (Gemini) with Material 3 purple & white design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

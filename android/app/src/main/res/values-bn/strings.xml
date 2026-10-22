@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ক্যাপশনক্রাফট এআই</string>
+    <string name="tagline">বাংলাদেশ ও বিশ্বমানের ক্রিয়েটরদের জন্য সোশ্যাল মিডিয়া ও ইউটিউব এসইও ক্যাপশন</string>
+    <string name="generate_caption">এসইও ক্যাপশন তৈরি করুন</string>
+    <string name="topic_hint">আপনার পোস্ট, ইউটিউব ভিডিও বা পিন্টারেস্ট পিন সম্পর্কে লিখুন (যেমন: টেক রিভিউ, জামদানি শাড়ি, কফি রেসিপি)...</string>
+    <string name="select_language">ভাষা</string>
+    <string name="select_platform">প্ল্যাটফর্ম (ইউটিউব, পিন্টারেস্ট, ফেসবুক, ইনস্টাগ্রাম, টিকটক, লিঙ্কডইন, এক্স)</string>
+    <string name="select_tone">টোন / সুর</string>
+    <string name="live_search">লাইভ গুগল সার্চ ও এসইও ট্রেন্ডস</string>
+    <string name="copy">কপি করুন</string>
+    <string name="copied">ক্লিপবোর্ডে কপি করা হয়েছে!</string>
+    <string name="share">শেয়ার</string>
+    <string name="saved">ফেভারিটে সেভ করা হয়েছে</string>
+    <string name="favorites">ফেভারিট</string>
+    <string name="history">ইতিহাস</string>
+    <string name="settings">সেটিংস</string>
+    <string name="pro_features">প্রো সংস্করণ</string>
+    <string name="free_tier_status">আজকের ফ্রি জেনারেশন: %1$d / %2$d</string>
+    <string name="error_network">ইন্টারনেট সংযোগ নেই। অনুগ্রহ করে নেটওয়ার্ক চেক করুন।</string>
+    <string name="error_quota">আজকের ফ্রি সীমা শেষ হয়েছে। আনলিমিটেড পেতে প্রো দেখুন।</string>
+    <string name="error_generic">কিছু একটা সমস্যা হয়েছে। আবার চেষ্টা করুন।</string>
+    <string name="retry">আবার চেষ্টা করুন</string>
+    <string name="clear_history">ইতিহাস মুছে ফেলুন</string>
+</resources>

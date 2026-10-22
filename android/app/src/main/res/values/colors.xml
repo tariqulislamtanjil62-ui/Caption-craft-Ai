@@ -1,0 +1,14 @@
+<resources>
+    <color name="purple_primary">#6D28D9</color>
+    <color name="purple_primary_variant">#5B21B6</color>
+    <color name="purple_secondary">#8B5CF6</color>
+    <color name="purple_accent">#A78BFA</color>
+    <color name="purple_light">#F5F3FF</color>
+    <color name="purple_dark">#1E1B4B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="surface_light">#FAFAFA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+</resources>

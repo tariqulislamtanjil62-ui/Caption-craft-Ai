@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "YOUR_FIREBASE_PROJECT_NUMBER",
+    "project_id": "your-firebase-project-id",
+    "storage_bucket": "your-firebase-project-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:YOUR_PROJECT_NUMBER:android:YOUR_CLIENT_HASH",
+        "android_client_info": {
+          "package_name": "com.captioncraft.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyYOUR_FIREBASE_SERVICES_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+/*
+ INSTRUCTIONS:
+ 1. Go to Firebase Console (https://console.firebase.google.com).
+ 2. Create or select your Firebase project.
+ 3. Add an Android App with package name: com.captioncraft.ai
+ 4. Download google-services.json and place it at: android/app/google-services.json
+ 5. In Firebase Console, open "Build" -> "AI Logic" (or "Vertex AI in Firebase") and enable the Gemini Developer API or Vertex AI.
+ 6. (Optional for production) Enable Firebase App Check with Play Integrity provider.
+*/
